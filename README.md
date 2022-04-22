@@ -9,3 +9,6 @@ Esta linha eu inclui diretamente pelo site, simulando uma alteração feita por 
 
 Alterações do readme no encontro remoto
 git push
+
+
+incluindo os comentarios para testar se deu certo
